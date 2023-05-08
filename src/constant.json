@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "What are you putting on your face?",
+      "image": "./images/cosmetics.jpg",
+      "desc": "  I have utilized my skills in finding out what I have been putting on my face for a few years and what kind of chemicals I have been exposed to. The project's goal is to explore the ingredients used in those products and to make a recommendation model based on the ingredients involved.",
+      "skills": ["ML", "SQL", "Python", "Seaborn"],
+      "github": "https://github.com/aradhya0530/Cosmetic-Ingredients-Analysis"
+      
+    },
+    {
+      "title": "EDA on Top Engineering Colleges India",
+      "image": "./images/college.jpg",
+      "desc": "Project on analysis of top 300 engineering colleges of India by web scraping data and then making exploratory analysis.",
+      "skills": ["Python", "ML", "Tableau","Web Scraping"],
+      "github": "https://github.com/aradhya0530/EDA-on-Top-Engineering-Colleges-India"
+      
+    },
+    {
+      "title": "K-drama Analysis",
+      "image": "./images/drama.avif",
+      "desc": "Analysis on various Korean dramas and recommendations based on a number of factors like particular Actor, Director , Writer then recommendations based on Genre , Year , Number of Episodes etc, using python & ML Libraries ",
+      "skills": ["Python", "Seaborn", "ML", "Data Visualisation"],
+      "github": "https://github.com/aradhya0530/Kdrama-analysis"
+    
+    }
+  ]
+}
